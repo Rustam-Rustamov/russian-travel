@@ -1,0 +1,16 @@
+.places {
+    max-width: 984px;;
+    margin: 0 auto;
+    padding: 0;
+    color: #fff;
+    font-family: 'Inter';
+    box-sizing: border-box;
+    margin-bottom: 92px;
+}
+
+@media screen and (max-width: 768px) {
+    .places {
+        margin-top: 64px;
+        margin-bottom: 66px;
+    }
+}
