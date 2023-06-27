@@ -9,6 +9,10 @@
     margin: 0;
 }
 
+.footer__link:last-child {
+    padding-right: 0;
+}
+
 @media screen and (max-width: 320px) {
     .footer__link {
         margin-bottom: 32px;

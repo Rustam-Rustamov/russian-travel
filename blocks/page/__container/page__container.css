@@ -1,21 +1,20 @@
 .page__container{
-    max-width: 1280px;
+    max-width: 100%;
     box-sizing: border-box;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0;
     padding: 28px 48px 24px 48px;
 }
 
 @media screen and (max-width: 1024px) {
     .page__container {
-        max-width: 1024px;
+        max-width: 100%;
         padding: 28px 0;
     }
 }
 
 @media screen and (max-width: 768px) {
     .page__container {
-        max-width: 768px;
+        max-width: 100%;
         margin: 0;
         padding: 28px 0 24px 0;
     }
@@ -23,6 +22,6 @@
 
 @media screen and (max-width: 320px) {
     .page__container {
-        max-width: 320px;
+        max-width: 100%;
     }
 }

@@ -2,7 +2,6 @@
     margin: 0 auto;
     padding-top: 40px;
     max-width: 640px;
-    min-height: 72px;
     font-family: Inter;
     font-size: 30px;
     font-weight: 400;
@@ -14,7 +13,6 @@
 @media screen and (max-width: 320px) {
     .lead__subtitle {
         max-width: 288px;
-        min-height: 40px;
         font-size: 16px;
         line-height: 1.25;
     }

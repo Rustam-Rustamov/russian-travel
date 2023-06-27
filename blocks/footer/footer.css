@@ -2,18 +2,11 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0 auto;
-    max-width: 1184px;
+    max-width: 100%;
     margin-bottom: 24px;
 }
 
 @media screen and (max-width: 1024px) {
-    .footer {
-        margin-left: 48px;
-        margin-right: 48px;
-    }
-}
-
-@media screen and (max-width: 320px) {
     .footer {
         margin-left: 48px;
         margin-right: 48px;
@@ -30,5 +23,6 @@
 @media screen and (max-width: 320px) {
     .footer {
         margin-left: 16px;
+        margin-right: 16px;
     }
 }
