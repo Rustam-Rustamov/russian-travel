@@ -1,5 +1,4 @@
 .lead__images {
-    display: block;
     margin: 0;
     margin-left: auto;
     margin-right: auto;
@@ -7,14 +6,13 @@
     padding-top: 64px;
     max-width: 984px;
     min-height: 615px;
+    display: block;
 }
 
 @media screen and (max-width: 1024px) {
     .lead__images {
         max-width: 928px;
         min-height: 580px;
-        margin-left: 48px;
-        margin-right: 48px;
     }
 }
 
