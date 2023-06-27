@@ -4,21 +4,21 @@
     margin-right: auto;
     padding: 0;
     padding-top: 64px;
-    max-width: 984px;
+    max-width: 100%;
     min-height: 615px;
     display: block;
 }
 
 @media screen and (max-width: 1024px) {
     .lead__images {
-        max-width: 928px;
+        max-width: 100%;
         min-height: 580px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .lead__images {
-        max-width: 768px;
+        max-width: 100%;
         min-height: 480px;
         margin: 0;
     }
@@ -26,7 +26,7 @@
 
 @media screen and (max-width: 320px) {
     .lead__images {
-        max-width: 320px;
+        max-width: 100%;
         min-height: 200px;
     }
 }

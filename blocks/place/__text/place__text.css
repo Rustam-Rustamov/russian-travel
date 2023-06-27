@@ -1,24 +1,24 @@
 .place__text {
     margin: 0;
-    max-width: 484px;
+    max-width: 90%;
     padding: 0;
 }
 
 @media screen and (max-width: 1024px) {
     .place__text {
-        max-width: 456px;
+        max-width: 90%;
     }
 }
 
 @media screen and (max-width: 768px) {
     .place__text {
-        max-width: 352px;
+        max-width: 90%;
     }
 }
 
 @media screen and (max-width: 320px) {
     .place__text {
-        max-width: 288px;
+        max-width: 90%;
         margin-left: 16px;
         margin-right: 16px;
         margin-bottom: 0;
