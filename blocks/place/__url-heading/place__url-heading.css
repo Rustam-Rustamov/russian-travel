@@ -2,10 +2,15 @@
     padding: 0;
     margin: 0;
     margin-bottom: 12px;
-    text-transform: capitalize;
+    text-transform: uppercase;
     color: #AAA;
     font-size: 12px;
-    font-family: Inter;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     line-height: 1;
     letter-spacing: 2px;
+}
+
+.place__url-heading:hover {
+    opacity: 0.8;
+    transition: 0.3s;
 }

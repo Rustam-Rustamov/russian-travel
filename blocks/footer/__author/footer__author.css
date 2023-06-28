@@ -4,11 +4,11 @@
     color: #FFF;
     text-align: right;
     font-size: 14px;
-    font-family: Inter;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     line-height: 1.1;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 719px) {
     .footer__author {
         text-align: left;
     }
