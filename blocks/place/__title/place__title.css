@@ -14,6 +14,8 @@
 @media screen and (max-width: 1024px) {
     .place__title {
         max-width: 27.5rem;
+        display: flex;
+        align-items: flex-end;
     }
 }
 
@@ -22,8 +24,6 @@
         max-width: 21.25rem;
         font-size: 42px;
         line-height: 46px;
-        display: flex;
-        align-items: flex-end;
     }
 }
 
