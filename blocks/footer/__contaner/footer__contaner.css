@@ -4,7 +4,7 @@
     justify-content: space-between;
 }
 
-@media screen and (max-width: 719px) {
+@media screen and (max-width: 700px) {
     .footer__contaner {
         flex-direction: column;
         justify-content:flex-start;
