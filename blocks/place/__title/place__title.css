@@ -30,13 +30,6 @@
         max-width: 18rem;
         font-size: 32px;
         line-height: 35px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .place__title {
         margin-left: 16px;
         margin-right: 16px;
     }
