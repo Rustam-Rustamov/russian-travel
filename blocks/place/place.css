@@ -29,7 +29,7 @@
 
 @media screen and (max-width: 790px) {
     .place {
-        grid-template-columns: 340px 352px;
+        grid-template-columns: 340px 1fr;
         margin-left: 24px;
         margin-right: 24px;
     }
