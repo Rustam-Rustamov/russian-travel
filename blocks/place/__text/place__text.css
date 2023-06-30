@@ -1,12 +1,21 @@
 .place__text {
     margin: 0;
-    max-width: 90%;
+    max-width: 30.25rem;
     padding: 0;
 }
 
-@media screen and (max-width: 719px) {
+@media screen and (max-width: 1024px) {
     .place__text {
-        margin-left: 16px;
-        margin-right: 16px;
+        max-width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 500px) {
+    .place__text {
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 16px;
+        padding-right: 16px;
     }
 }

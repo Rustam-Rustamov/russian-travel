@@ -3,3 +3,10 @@
     min-height: 52px;
     aspect-ratio: 29.5/10;
 }
+
+@media screen and (max-width: 320px) {
+    .logo {
+        max-width: 142px;
+        min-height: 42px;
+    }
+}

@@ -1,5 +1,6 @@
 .cover__overlay {
     text-decoration: none;
+    background-position: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -14,7 +15,6 @@
 
 .cover__overlay:before {
     background: #2A2C2F;
-    background-position: center;
     opacity: 0.3;
     transition: 0.3s;
     content: "";

@@ -6,8 +6,9 @@
     color: #AAA;
     font-size: 12px;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
-    line-height: 1;
+    line-height: 12px;
     letter-spacing: 2px;
+    font-style: normal;
 }
 
 .place__url-heading:hover {

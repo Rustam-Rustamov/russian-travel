@@ -6,3 +6,9 @@
     margin-bottom: 92px;
     max-width: 1184px;
 }
+
+@media screen and (max-width: 550px) {
+    .cover {
+        margin-bottom: 64px;
+    }
+}

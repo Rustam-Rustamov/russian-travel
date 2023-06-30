@@ -1,5 +1,6 @@
 .footer__links {
     display: flex;
+    padding-bottom: 48px;
 }
 
 @media screen and (max-width: 719px) {
