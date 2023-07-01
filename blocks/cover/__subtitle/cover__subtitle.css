@@ -31,5 +31,7 @@
         line-height: 1.1;
         margin-left: 16px;
         margin-right: 16px;
+        margin-top: 16px;
+        margin-bottom: 0;
     }
 }
