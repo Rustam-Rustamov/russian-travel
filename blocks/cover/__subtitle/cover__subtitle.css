@@ -8,6 +8,7 @@
     z-index: 1;
     margin-left: 412px;
     margin-right: 412px;
+    margin-top: 32px;
 }
 
 @media screen and (max-width: 1180px) {
